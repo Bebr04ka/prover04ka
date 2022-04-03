@@ -4,6 +4,7 @@ from PyQt5.QtWidgets import QVBoxLayout, QHBoxLayout
 
 app = QApplication([])
 test_win = QWidget()
+start_win.setWindowTitle('Начало теста')
 start_win = QWidget()
 
 
